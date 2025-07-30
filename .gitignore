@@ -1,0 +1,11 @@
+# Build and Release Folders
+bin-debug/
+/node_modules
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+commit_message.txt
+server/.env
